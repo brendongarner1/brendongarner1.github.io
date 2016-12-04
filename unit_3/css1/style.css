@@ -23,8 +23,21 @@ img {
 
 ul {
   list-style-type: none;
+  font-weight: 600;
 }
 
 #slogan {
 	font-style: italic;
+}
+
+#contact {
+	font-weight: 400;
+}
+
+.subtitle {
+	font-size: 24px;
+}
+
+.sectiontitle {
+	font-size: 10px;
 }
