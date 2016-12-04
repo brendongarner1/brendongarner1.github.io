@@ -18,3 +18,7 @@ p {
 #slogan {
 	font-style: italic;
 }
+
+image {
+	background-position: cover;
+}
