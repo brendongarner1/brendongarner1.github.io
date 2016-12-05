@@ -33,8 +33,7 @@ p {
 img {
     max-width: 100%;
     height: auto;
-    margin-left: : 15px;
-    margin-right: 15px;
+    margin: auto;
 }
 
 #slogan {
