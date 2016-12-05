@@ -10,7 +10,7 @@ ul {
 }
 
 /* Style the links inside the list items*/
-.topnav li {
+.topnav {
     display: inline-block;
     color: #0000FF;
     text-align: center;
