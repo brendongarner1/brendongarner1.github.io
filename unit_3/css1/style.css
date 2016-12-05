@@ -6,14 +6,11 @@ h1 {
 /* Remove margins and padding from the list, and add a black background color */
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
     float: left;
 }
 
 /* Style the links inside the list items*/
-ul.topnav li {
+.topnav li {
     display: inline-block;
     color: #0000FF;
     text-align: center;
