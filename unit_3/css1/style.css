@@ -2,24 +2,6 @@ h1 {
 	text-align: left;
 }
 
-
-/* Remove margins and padding from the list, and add a black background color */
-ul {
-    list-style-type: none;
-    float: left;
-}
-
-/* Style the links inside the list items*/
-.topnav {
-    display: inline-block;
-    color: #0000FF;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    transition: 0.3s;
-    font-size: 17px;
-}
-
 body {
 	background-color: #eeeee1;
 	text-align: center;
@@ -28,13 +10,19 @@ body {
 	font-family: Helvetica;
 }
 
+.floating-box {
+	display: inline-block;
+    width: 120px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21;
+}
+
 h1 {
 	font-weight: 700;
 	font-size: 48px;
 	font-family: Helvetica;
 }
-
-
 
 p {
 	color: blue;
@@ -59,4 +47,15 @@ img {
 
 .sectiontitle {
 	font-size: 10px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-block;
+    color: #0000FF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
 }
