@@ -15,9 +15,11 @@ body {
 .floating-box {
 	display: inline-block;
     width: 80px;
-    height: 50px;
+    height: 30px;
     margin: 10px;
     border: 0px;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 h1 {
@@ -26,14 +28,9 @@ h1 {
 	font-family: Helvetica;
 }
 
-p {
-	color: blue;
-}
-
 img {
     max-width: 100%;
     height: auto;
-    max-width: 900px;
 }
 
 #slogan {
