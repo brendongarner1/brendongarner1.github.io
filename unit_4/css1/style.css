@@ -31,6 +31,11 @@ ul {
     font-size: 17px;
 }
 
+.center {
+	text-align: center;
+	line-height: 1.5;
+}
+
 .floating-box {
 	display: inline-block;
     width: 80px;
