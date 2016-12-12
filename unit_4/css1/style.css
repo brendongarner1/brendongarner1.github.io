@@ -51,6 +51,10 @@ ul {
     font-family: 'Proza Libre', sans-serif;
 }
 
+.image {
+	display: inherit;
+}
+
 .sectiontitle {
 	font-size: 12px;
 }
