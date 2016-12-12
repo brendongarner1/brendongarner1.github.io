@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Proza+Libre');
 
-h1 {
-	text-align: center;
-	color: #0000FF;
-	font-family: 'Proza Libre', sans-serif;
-}
-
 body {
 	background-color: #eeeee1;
 	text-align: center;
@@ -18,7 +12,7 @@ body {
 h1 {
 	font-weight: 700;
 	font-size: 48px;
-	font-family: Helvetica;
+	font-family: 'Proza Libre', sans-serif;
 }
 
 img { 
