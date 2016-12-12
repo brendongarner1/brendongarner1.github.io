@@ -40,6 +40,10 @@ ul {
 	margin: 1.5em;
 }
 
+.container {
+    position: relative;
+}
+
 .floating-box {
 	display: inline-block;
     width: 80px;
@@ -51,9 +55,8 @@ ul {
     font-family: 'Proza Libre', sans-serif;
 }
 
-.container {
-    position: relative;
-    font-size: 18px;
+.sectiontitle {
+	font-size: 12px;
 }
 
 .subtitle {
@@ -63,16 +66,12 @@ ul {
 	padding-bottom: 10px;
 }
 
-.sectiontitle {
-	font-size: 12px;
+#contact {
+	font-weight: 600;
+	font-family: 'Proza Libre', sans-serif;
 }
 
 #slogan {
 	font-style: italic;
 	letter-spacing: 1.1;
-}
-
-#contact {
-	font-weight: 600;
-	font-family: 'Proza Libre', sans-serif;
 }
