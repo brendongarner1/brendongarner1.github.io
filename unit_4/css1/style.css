@@ -32,12 +32,12 @@ ul {
 }
 
 .container {
-	position: absolute;
+	position: relative;
+	left: 20px;
 	line-height: 200%;
 	font-size: 18px;
 	margin: 2em;
 	letter-spacing: 1.5px;
-	max-width: 600px;
 }
 
 .floating-box {
