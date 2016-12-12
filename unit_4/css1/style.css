@@ -32,12 +32,12 @@ ul {
 }
 
 .center {
-	position: relative;
-	line-height: 110%;
+	position: absolute;
+	line-height: 200%;
 	font-size: 18px;
-	margin: 1.5em;
+	margin: 0 auto;
 	letter-spacing: 1.5px;
-	display: flex;
+	max-width: 600px;
 }
 
 .floating-box {
