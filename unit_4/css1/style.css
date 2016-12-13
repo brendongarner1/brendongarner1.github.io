@@ -25,11 +25,15 @@ img {
 ul {
     list-style-type: none;
     display: inline-flex;
-    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     transition: 0.3s;
     font-size: 17px;
+}
+
+li {
+	margin-left: 5px;
+	margin-right: 5px;
 }
 
 .container {
