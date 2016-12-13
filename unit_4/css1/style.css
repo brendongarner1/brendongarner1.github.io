@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Proza+Libre');
 
+a {
+	text-decoration: none;
+}
+
 body {
 	background-color: #eeeee1;
 	text-align: center;
@@ -24,12 +28,12 @@ img {
 
 nav {
 	display: inline-flex;
-	width: 80px;
-    height: 30px;
-    margin: 1.2em;
+	width: 100px;
+    height: 25px;
+    margin: 1.1em;
     border: 0px;
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 600;
     font-family: 'Proza Libre', sans-serif;
     text-decoration: none;
 }
@@ -56,17 +60,6 @@ li {
 	letter-spacing: 1.5px;
 	padding-left: 30px;
 	padding-right: 30px;
-}
-
-.floating-box {
-	display: inline-block;
-    width: 80px;
-    height: 30px;
-    margin: 1.2em;
-    border: 0px;
-    font-size: 20px;
-    font-weight: 700;
-    font-family: 'Proza Libre', sans-serif;
 }
 
 .image {
