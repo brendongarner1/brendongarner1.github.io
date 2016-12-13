@@ -22,6 +22,16 @@ img {
     opacity: 1;
 }
 
+nav {
+	width: 80px;
+    height: 30px;
+    margin: 1.2em;
+    border: 0px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Proza Libre', sans-serif;
+}
+
 ul {
     list-style-type: none;
     display: inline-flex;
@@ -32,8 +42,8 @@ ul {
 }
 
 li {
-	margin-left: 5px;
-	margin-right: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .container {
