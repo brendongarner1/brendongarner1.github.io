@@ -56,7 +56,6 @@ li {
 }
 
 .heroimage {
-	display: inherit;
 	max-width: 80%;
     height: auto;
     opacity: 1;
