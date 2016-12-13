@@ -23,6 +23,7 @@ img {
 }
 
 nav {
+	display: inline-flex;
 	width: 80px;
     height: 30px;
     margin: 1.2em;
@@ -30,6 +31,7 @@ nav {
     font-size: 20px;
     font-weight: 700;
     font-family: 'Proza Libre', sans-serif;
+    text-decoration: none;
 }
 
 ul {
