@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Proza+Libre');
+
+body {
+	background-color: #eeeee1;
+	text-align: center;
+	font-weight: 400;
+	font-size: 12px;
+	font-family: 'Cormorant Garamond';
+	color: #0000FF;
+}
+
+aside {
+	background-color: #FFC675;
+}
+
+article {
+	background-color: #E89C6C;
+}
+
+div {
+	background-color: #FFE2B8;
+}
+
+footer {
+	background-color: #FF957E;
+}
+
+header {
+	background-color: #FFED74;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 48px;
+	font-family: 'Proza Libre', sans-serif;
+	margin-bottom: 10px;
+}
+
+img { 
+    display: block;
+    max-width: 80%;
+    height: auto;
+    opacity: 1;
+}
+
+li {
+	margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+nav {
+	background-color: #E8C66A;
+	display: inline;
+	width: 100%;
+    margin-left: 2em;
+    margin-right: 2em;
+    border: 0px;
+
+}
+
+section {
+	background-color: #FFE2B8;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#id {
+	margin: auto;
+}
+
+.container {
+	position: relative;
+	line-height: 200%;
+	font-size: 18px;
+	margin: 2em;
+	letter-spacing: 1.5px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.heroimage {
+	max-width: 80%;
+    height: auto;
+    opacity: 1;
+
+}
+
+.topnav {
+	font-size: 20px;
+    font-weight: 600;
+    font-family: 'Proza Libre', sans-serif;
+    text-decoration: none;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 10px;
+}
+
+.sectiontitle {
+	font-size: 12px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.subtitle {
+	font-size: 24px;
+	font-family: 'Proza Libre', sans-serif;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+#contact {
+	font-weight: 600;
+	font-family: 'Proza Libre', sans-serif;
+}
+
+#slogan {
+	font-style: italic;
+	letter-spacing: 1.10px;
+	margin-bottom: 12px;
+}
