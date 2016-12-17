@@ -17,6 +17,7 @@ h1 {
 }
 
 img { 
+    display: block;
     max-width: 80%;
     height: auto;
     opacity: 1;
@@ -43,6 +44,10 @@ li {
     margin-right: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+#id {
+	margin: auto;
 }
 
 .container {
