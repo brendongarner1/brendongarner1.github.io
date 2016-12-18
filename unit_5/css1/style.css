@@ -19,7 +19,7 @@ article {
 	font-size: 18px;
 	margin: 2em;
 	letter-spacing: 1.5px;
-	padding: 0 20px;
+	padding: 0px 20px;
 	max-width: 650px;
 	display: inline-flex;
 	position: relative;
@@ -98,13 +98,13 @@ ul {
 
 .sectiontitle {
 	font-size: 14px;
-	margin: 10 0 5 0px;
+	margin: 10px 0px 5px 0px;
 }
 
 .subtitle {
 	font-size: 24px;
 	font-family: 'Proza Libre', sans-serif;
-	padding: 8 0px;
+	padding: 8px 0px;
 }
 
 #contact {
