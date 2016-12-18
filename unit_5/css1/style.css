@@ -15,6 +15,13 @@ aside {
 
 article {
 	background-color: #E89C6C;
+	position: relative;
+	line-height: 200%;
+	font-size: 18px;
+	margin: 2em;
+	letter-spacing: 1.5px;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
 div {
@@ -76,13 +83,7 @@ ul {
 }
 
 .container {
-	position: relative;
-	line-height: 200%;
-	font-size: 18px;
-	margin: 2em;
-	letter-spacing: 1.5px;
-	padding-left: 30px;
-	padding-right: 30px;
+
 }
 
 .heroimage {
