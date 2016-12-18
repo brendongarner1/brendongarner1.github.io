@@ -47,11 +47,11 @@ img {
     max-width: 80%;
     height: auto;
     opacity: 1;
-    margin: auto 0;
+    margin: auto 0px;
 }
 
 li {
-    margin: 10 20 10 20;
+    margin: 10 20 10 20px;
 }
 
 nav {
@@ -75,7 +75,7 @@ ul {
 }
 
 #wrapper {
-	margin: auto 0;
+	margin: auto 0px;
 }
 
 .heroimage {
@@ -88,18 +88,18 @@ ul {
     font-weight: 600;
     font-family: 'Proza Libre', sans-serif;
     text-decoration: none;
-    margin: 0 16 10 16;
+    margin: 0 16 10 16px;
 }
 
 .sectiontitle {
 	font-size: 14px;
-	margin: 10 0 5 0;
+	margin: 10 0 5 0px;
 }
 
 .subtitle {
 	font-size: 24px;
 	font-family: 'Proza Libre', sans-serif;
-	padding: 8 0;
+	padding: 8 0px;
 }
 
 #contact {
