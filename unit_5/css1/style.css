@@ -15,13 +15,13 @@ aside {
 
 article {
 	background-color: #E89C6C;
-	position: relative;
 	line-height: 200%;
 	font-size: 18px;
 	margin: 2em;
 	letter-spacing: 1.5px;
-	padding: 0 30px;
-	width: 650px;
+	padding: 0 20px;
+	max-width: 650px;
+	display: inline-flex;
 }
 
 div {
