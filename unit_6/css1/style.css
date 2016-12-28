@@ -10,11 +10,10 @@ body {
 }
 
 aside {
-	background-color: #FFC675;
+
 }
 
 article {
-	background-color: #E89C6C;
 	line-height: 200%;
 	font-size: 18px;
 	margin: 2em;
@@ -26,15 +25,15 @@ article {
 }
 
 div {
-	background-color: #FFE2B8;
+
 }
 
 footer {
-	background-color: #FF957E;
+
 }
 
 header {
-	background-color: #FFED74;
+
 }
 
 h1 {
@@ -60,9 +59,8 @@ li {
 }
 
 nav {
-	background-color: #E8C66A;
 	display: inline;
-	width: 100%;
+	width: 98%;
     margin: 10px 20px;
     border: 0px;
 
