@@ -83,9 +83,9 @@ ul {
 	margin: auto 0px;
 }
 
-#announcements {
-	display: block;
-	position: relative;
+.heroimage {
+    height: auto;
+
 }
 
 .topnav {
@@ -111,6 +111,26 @@ ul {
 	font-weight: 600;
 	font-family: 'Proza Libre', sans-serif;
 }
+
+#left {
+	background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.clearfix
 
 #slogan {
 	font-style: italic;
