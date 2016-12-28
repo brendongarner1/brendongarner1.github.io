@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Proza+Libre');
+
+body {
+	background-color: #eeeee1;
+	text-align: center;
+	font-weight: 400;
+	font-size: 12px;
+	font-family: 'Cormorant Garamond';
+	color: #0000FF;
+}
+
+aside {
+	background-color: #FFC675;
+}
+
+article {
+	background-color: #E89C6C;
+	line-height: 200%;
+	font-size: 18px;
+	margin: 2em;
+	letter-spacing: 1.5px;
+	padding: 0px 20px;
+	max-width: 650px;
+	display: inline-flex;
+	position: relative;
+}
+
+div {
+	background-color: #FFE2B8;
+}
+
+footer {
+	background-color: #FF957E;
+}
+
+header {
+	background-color: #FFED74;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 48px;
+	font-family: 'Proza Libre', sans-serif;
+	margin-bottom: 10px;
+}
+
+img { 
+    display: inline-block;
+    max-width: 80%;
+    height: auto;
+    opacity: 1;
+    margin: 20px;
+}
+
+li {
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	display: inline;
+	width: 100%;
+    margin: 10px 20px;
+    border: 0px;
+
+}
+
+section {
+	background-color: #FFE2B8;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#wrapper {
+	margin: auto 0px;
+}
+
+.heroimage {
+    height: auto;
+
+}
+
+.topnav {
+	font-size: 20px;
+    font-weight: 600;
+    font-family: 'Proza Libre', sans-serif;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.sectiontitle {
+	font-size: 14px;
+	margin: 10px 0px 5px 0px;
+}
+
+.subtitle {
+	font-size: 24px;
+	font-family: 'Proza Libre', sans-serif;
+	padding: 8px 0px;
+}
+
+#contact {
+	font-weight: 600;
+	font-family: 'Proza Libre', sans-serif;
+}
+
+#left {
+	background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.clearfix
+
+#slogan {
+	font-style: italic;
+	letter-spacing: 1.10px;
+	margin-bottom: 12px;
+}
