@@ -110,7 +110,7 @@ ul {
 #left {
     padding: 20px;
     float: left;
-    width: 50%;
+    width: 46%;
     text-align: left;
     display: inline-block;
 }
@@ -118,7 +118,7 @@ ul {
 #right {
     padding: 20px;
     float: right;   
-    width: 50%;
+    width: 46%;
     text-align: right;
     display: inline-block;
 }
