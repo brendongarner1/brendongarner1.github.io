@@ -107,30 +107,24 @@ ul {
 	padding: 8px 0px;
 }
 
-#contact {
-	font-weight: 600;
-	font-family: 'Proza Libre', sans-serif;
-}
-
 #left {
-	background-color: violet;
-    border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 50%;
+    text-align: left;
+    display: inline-block;
 }
 
 #right {
-	background-color: pink;
-    border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 62%;
+    width: 50%;
+    text-align: right;
+    display: inline-block;
 }
 
 #two_column {
-	background-color: #FFB7CF;
-    border: 1px black solid;
+	background-color: #f7f7f7;
     padding: 20px;
 }
 
