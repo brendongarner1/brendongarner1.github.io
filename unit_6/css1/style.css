@@ -67,7 +67,7 @@ nav {
 }
 
 section {
-	background-color: #FFE2B8;
+
 }
 
 ul {
@@ -75,6 +75,10 @@ ul {
     display: inline-flex;
     text-decoration: none;
     font-size: 18px;
+}
+
+li {
+	text-decoration: none;
 }
 
 #wrapper {
